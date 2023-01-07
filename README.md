@@ -3,5 +3,5 @@ The "Remove Product" plugin allows admins to remove products from the front-end 
 
 # Screenshots
 <img src = 'Remove_Product.png'>
-<img src = 'Remove_Product_2.png'>
-<img src = 'Remove_Product_3.png'>
+<img src = 'Remove_Product_2.PNG'>
+<img src = 'Remove_Product_3.PNG'>
